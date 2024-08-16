@@ -1,0 +1,12 @@
+{
+  "name": "tailwind-bang",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "npm run build:css"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.4.10"
+  }
+}
